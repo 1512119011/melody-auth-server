@@ -1,0 +1,7 @@
+node_modules/
+melody.db
+melody.db-wal
+melody.db-shm
+*.log
+.env
+#（注：内容由AI生成）
